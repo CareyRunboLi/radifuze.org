@@ -2,12 +2,22 @@
 <html lang="en-GB">
     {% include head.html %}
     <body>
-        {% include decorations.html %}
-        <div id="body">
-            <div id="container">
-                {% include header.html %}
-                {% include nav.html %}
+        <div id="decorations">
+            {% include decorations.html %}
+        </div>
+        
+        <div id="container">
+            {% include header.html %}
+            {% include nav.html %}
+            
+            <div id="body">
+                <ol id="breadcrumb">
+                    <li><a href=" ">Home</a ></li>
+                    <li>{{ page.title }}</li>
+                </ol>
+                
                 {{ content }}
+                
                 {% include footer.html %}
             </div>
         </div>
