@@ -49,13 +49,8 @@ customstyles: true
             <h2>Our Clubs</h2>
             <section class="card">
                 <div style="text-align: center; margin-bottom: 15px;">
-                    < img src="{{ site.baseurl }}/graphics/nav/DoClub.jpg" alt="Biology Club" style="width: 100%; margin-bottom: 10px;">
+                    < img src="{{ site.baseurl }}/graphics/nav/BioClub.jpg" alt="Biology Club" style="width: 100%; margin-bottom: 10px;">
                     <h3>Biology Club</h3>
-                </div>
-                
-                <div style="text-align: center; margin-bottom: 15px;">
-                    < img src="{{ site.baseurl }}/graphics/nav/TechClub.jpg" alt="Technology Dream Workshop" style="width: 100%; margin-bottom: 10px;">
-                    <h3>Technology Dream Workshop</h3>
                 </div>
                 
                 <div style="text-align: center; margin-bottom: 15px;">
