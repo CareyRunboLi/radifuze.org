@@ -49,17 +49,17 @@ customstyles: true
             <h2>Our Clubs</h2>
             <section class="card">
                 <div style="text-align: center; margin-bottom: 15px;">
-                    < img src="{{ site.baseurl }}/graphics/BioClub.jpg">
+                    <img src="{{ site.baseurl }}/graphics/BioClub.jpg">
                     <h3>Biology Club</h3>
                 </div>
                 
                 <div style="text-align: center; margin-bottom: 15px;">
-                    < img src="{{ site.baseurl }}/graphics/TechClub.jpg">
+                    <img src="{{ site.baseurl }}/graphics/TechClub.jpg">
                     <h3>Technology Dream Workshop</h3>
                 </div>
                     
                 <div style="text-align: center; margin-bottom: 15px;">
-                    < img src="{{ site.baseurl }}/graphics/PhysicsClub.jpg">
+                    <img src="{{ site.baseurl }}/graphics/PhysicsClub.jpg">
                     <h3>RDFZ Physics</h3>
                 </div>
             </section>
