@@ -68,7 +68,7 @@ customstyles: true
         <div style="margin-top: 20px;">
             <h2>Contact Us</h2>
             <p>Interested in joining one of our clubs? Reach out to us at:</p >
-            <p><strong>contact@radifuze.org</strong></p >
+            <p><strong>tailai.cong@outlook.com</strong></p >
         </div>
     </aside>
 </main>
